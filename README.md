@@ -32,6 +32,8 @@ The dataset contains detailed order-level data, including revenue, order counts,
 
 ### Visualizations
 
+~[Dashboard Screenshot](https://github.com/vijaykumar1799/Pizzaria-Store-Sales-Analysis-Dashboard/blob/main/dashboard.jpg)
+
 - **Daily Trend** (bar chart): Busiest days — **Thursday to Saturday**
 - **Hourly Trend** (line chart): Peak hours — **12–1 PM** and **5–7 PM**
 - **Sales by Category & Size** (pie charts): Classic (26.91%), Large (45.89%), Medium (30.49%)
