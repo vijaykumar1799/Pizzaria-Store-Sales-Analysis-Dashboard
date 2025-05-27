@@ -44,7 +44,6 @@ ORDER BY Total_Quantity_Sold DESC
 -- Top 5 best sellers by total pizzas sold for month of january
 SELECT TOP 5 pizza_name, SUM(quantity) as Quantity_Sold, CAST(SUM(total_price) AS DECIMAL(10, 2)) AS Total_Sales
 FROM [pizza_sales excel file.xlsx - pizza_sales]
-WHERE MONTH(order_date) = 1
 GROUP BY pizza_name
 ORDER BY Quantity_Sold DESC
 
