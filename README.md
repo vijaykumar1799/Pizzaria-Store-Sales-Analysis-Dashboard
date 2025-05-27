@@ -1,6 +1,6 @@
-# 🍕 2015 Pizza Sales Dashboard
+# Operational & Sales Insights: Pizza Analytics Dashboard
 
-Welcome to my **2015 Pizza Sales Dashboard** project! This repository presents an end-to-end data analysis and visualization solution built to uncover insights from a full year of pizza sales data (January–December 2015). Using **SQL for exploratory data analysis (EDA)** and **Excel for dashboard design**, this project demonstrates my ability to transform raw data into meaningful, actionable business intelligence.
+Welcome to my **2015 Pizza Sales Analytics Dashboard** project! This repository presents an end-to-end data analysis and visualization solution built to uncover insights from a full year of pizza sales data (January–December 2015). Using **SQL for exploratory data analysis (EDA)** and **Excel for dashboard design**, this project demonstrates my ability to transform raw data into meaningful, actionable business intelligence.
 
 ---
 
